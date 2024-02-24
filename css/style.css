@@ -9,6 +9,7 @@ a{
   color: white;
 }
 
+
 ul{
   list-style: none;
 }
@@ -30,7 +31,6 @@ ul{
 
 .logo{
   height: 35px;
-  color: white;
 }
 
 .nav-column{
@@ -51,5 +51,7 @@ ul{
 .button-ul li{
   border: 1px solid white;
   border-radius: 15px;
-  padding: 2px 4px;
+  padding: 3px 5px;
+
 }
+
