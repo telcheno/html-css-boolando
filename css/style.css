@@ -1,7 +1,9 @@
+/*  reset de gli style */
 *{
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family: sans-serif;
 }
 
 a{
@@ -14,6 +16,7 @@ ul{
   list-style: none;
 }
 
+/* style del header generici */
 .header-nav{
   background-color: orange;
 }
@@ -39,6 +42,7 @@ ul{
   justify-content: space-between;
 }
 
+/* style de gli elementi delle collone del header */
 .col-ul{
   display: flex;
   align-items: center;
@@ -55,3 +59,9 @@ ul{
 
 }
 
+/* style del main */
+.main-section{
+  margin: 45px auto;
+  max-width: 800px;
+  text-align: center;
+}
